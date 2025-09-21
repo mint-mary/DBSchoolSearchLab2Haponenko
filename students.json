@@ -1,0 +1,5796 @@
+{
+    "students": [
+        {
+            "last_name": "SCHOENECKER",
+            "first_name": "PHUONG",
+            "grade": 6,
+            "classroom": 109,
+            "bus": 0
+        },
+        {
+            "last_name": "ELHADDAD",
+            "first_name": "SHANTE",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "RACANELLO",
+            "first_name": "NOEL",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 56
+        },
+        {
+            "last_name": "WOOLERY",
+            "first_name": "NOLAN",
+            "grade": 2,
+            "classroom": 104,
+            "bus": 51
+        },
+        {
+            "last_name": "STERBACK",
+            "first_name": "PETER",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 51
+        },
+        {
+            "last_name": "FINCHMAN",
+            "first_name": "MATHILDA",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 0
+        },
+        {
+            "last_name": "VILARDO",
+            "first_name": "EMMANUEL",
+            "grade": 2,
+            "classroom": 104,
+            "bus": 56
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "HYE",
+            "grade": 3,
+            "classroom": 110,
+            "bus": 0
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "CARTER",
+            "grade": 4,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "IMMERMAN",
+            "first_name": "DEVIN",
+            "grade": 4,
+            "classroom": 105,
+            "bus": 52
+        },
+        {
+            "last_name": "LIBRANDI",
+            "first_name": "TODD",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 51
+        },
+        {
+            "last_name": "SWEDLUND",
+            "first_name": "SHARRI",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 55
+        },
+        {
+            "last_name": "ZAPPAVIGNA",
+            "first_name": "ELLIOTT",
+            "grade": 6,
+            "classroom": 106,
+            "bus": 55
+        },
+        {
+            "last_name": "OBREIN",
+            "first_name": "STAN",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 52
+        },
+        {
+            "last_name": "RAPOSE",
+            "first_name": "ALONZO",
+            "grade": 4,
+            "classroom": 105,
+            "bus": 51
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "DIMPLE",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 52
+        },
+        {
+            "last_name": "WORBINGTON",
+            "first_name": "DEEDRA",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 53
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "MANIE",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "HAVIR",
+            "first_name": "BOBBIE",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 0
+        },
+        {
+            "last_name": "OGAS",
+            "first_name": "ERVIN",
+            "grade": 4,
+            "classroom": 105,
+            "bus": 54
+        },
+        {
+            "last_name": "SPANICEK",
+            "first_name": "KENDRA",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 53
+        },
+        {
+            "last_name": "SAENPHIMMACHA",
+            "first_name": "NUMBERS",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 55
+        },
+        {
+            "last_name": "GUICE",
+            "first_name": "CODI",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "WAN",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 55
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "JANNETTE",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 54
+        },
+        {
+            "last_name": "SARAO",
+            "first_name": "DIEDRA",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "FLOY",
+            "grade": 6,
+            "classroom": 109,
+            "bus": 53
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "TOMAS",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 51
+        },
+        {
+            "last_name": "EARLY",
+            "first_name": "TORY",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "VANCOTT",
+            "first_name": "MIKE",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 54
+        },
+        {
+            "last_name": "WICINSKY",
+            "first_name": "TERESE",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 53
+        },
+        {
+            "last_name": "KRAKE",
+            "first_name": "VALENTIN",
+            "grade": 6,
+            "classroom": 109,
+            "bus": 56
+        },
+        {
+            "last_name": "GLOR",
+            "first_name": "HUNG",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "KOZOLA",
+            "first_name": "BUSTER",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 55
+        },
+        {
+            "last_name": "KEMERER",
+            "first_name": "ROSETTA",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 52
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "INGER",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 56
+        },
+        {
+            "last_name": "MULLINGS",
+            "first_name": "LEIGHANN",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 51
+        },
+        {
+            "last_name": "SAELEE",
+            "first_name": "DANILO",
+            "grade": 1,
+            "classroom": 103,
+            "bus": 54
+        },
+        {
+            "last_name": "GUM",
+            "first_name": "NOAH",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "BILLY",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 56
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "DICK",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 54
+        },
+        {
+            "last_name": "MULGREW",
+            "first_name": "RANDELL",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 54
+        },
+        {
+            "last_name": "LINHART",
+            "first_name": "LELA",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "MASSART",
+            "first_name": "ELDON",
+            "grade": 4,
+            "classroom": 105,
+            "bus": 0
+        },
+        {
+            "last_name": "DEMARTINI",
+            "first_name": "DEWAYNE",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 55
+        },
+        {
+            "last_name": "GARTH",
+            "first_name": "JOHN",
+            "grade": 1,
+            "classroom": 103,
+            "bus": 0
+        },
+        {
+            "last_name": "NOVICK",
+            "first_name": "ROLLAND",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "RANDOLPH",
+            "grade": 6,
+            "classroom": 109,
+            "bus": 0
+        },
+        {
+            "last_name": "THEUNISSEN",
+            "first_name": "GRACE",
+            "grade": 3,
+            "classroom": 110,
+            "bus": 54
+        },
+        {
+            "last_name": "FEYEREISEN",
+            "first_name": "WILFREDO",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 56
+        },
+        {
+            "last_name": "DURAND",
+            "first_name": "CARLEE",
+            "grade": 4,
+            "classroom": 101,
+            "bus": 51
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "TAMESHA",
+            "grade": 4,
+            "classroom": 105,
+            "bus": 55
+        },
+        {
+            "last_name": "DELUNA",
+            "first_name": "KRYSTAL",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 53
+        },
+        {
+            "last_name": "TOWLEY",
+            "first_name": "LANE",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 54
+        },
+        {
+            "last_name": "WERST",
+            "first_name": "LEON",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 55
+        },
+        {
+            "last_name": "LAMKIN",
+            "first_name": "TAMA",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 55
+        },
+        {
+            "last_name": "KREESE",
+            "first_name": "CARRIE",
+            "grade": 6,
+            "classroom": 109,
+            "bus": 0
+        },
+        {
+            "last_name": "FRIEDSTROM",
+            "first_name": "REED",
+            "grade": 6,
+            "classroom": 106,
+            "bus": 51
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "ZANDRA",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 53
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "DICK",
+            "grade": 1,
+            "classroom": 106,
+            "bus": 52
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "FLOY",
+            "grade": 5,
+            "classroom": 106,
+            "bus": 55
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "RANDOLPH",
+            "grade": 3,
+            "classroom": 108,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "TOMAS",
+            "grade": 5,
+            "classroom": 101,
+            "bus": 53
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "TOMAS",
+            "grade": 3,
+            "classroom": 103,
+            "bus": 52
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "FLOY",
+            "grade": 5,
+            "classroom": 109,
+            "bus": 56
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "FLOY",
+            "grade": 5,
+            "classroom": 112,
+            "bus": 51
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "WAN",
+            "grade": 3,
+            "classroom": 112,
+            "bus": 53
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "ZANDRA",
+            "grade": 3,
+            "classroom": 105,
+            "bus": 51
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "RANDOLPH",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "MANIE",
+            "grade": 5,
+            "classroom": 110,
+            "bus": 52
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "DICK",
+            "grade": 4,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "HYE",
+            "grade": 6,
+            "classroom": 107,
+            "bus": 51
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "DICK",
+            "grade": 6,
+            "classroom": 106,
+            "bus": 51
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "JANNETTE",
+            "grade": 4,
+            "classroom": 101,
+            "bus": 56
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "CARTER",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "XUAN",
+            "grade": 6,
+            "classroom": 101,
+            "bus": 51
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "JANNETTE",
+            "grade": 1,
+            "classroom": 112,
+            "bus": 55
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "MANIE",
+            "grade": 1,
+            "classroom": 106,
+            "bus": 53
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "XUAN",
+            "grade": 2,
+            "classroom": 101,
+            "bus": 54
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "XUAN",
+            "grade": 5,
+            "classroom": 112,
+            "bus": 56
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "INGER",
+            "grade": 5,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "WAN",
+            "grade": 3,
+            "classroom": 109,
+            "bus": 55
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "JANNETTE",
+            "grade": 5,
+            "classroom": 107,
+            "bus": 51
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "MANIE",
+            "grade": 5,
+            "classroom": 111,
+            "bus": 53
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "DIMPLE",
+            "grade": 3,
+            "classroom": 106,
+            "bus": 53
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "RANDOLPH",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "CARTER",
+            "grade": 3,
+            "classroom": 112,
+            "bus": 56
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "INGER",
+            "grade": 1,
+            "classroom": 105,
+            "bus": 53
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "RANDOLPH",
+            "grade": 6,
+            "classroom": 109,
+            "bus": 51
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "TAMESHA",
+            "grade": 3,
+            "classroom": 111,
+            "bus": 54
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "TAMESHA",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "CARTER",
+            "grade": 2,
+            "classroom": 104,
+            "bus": 52
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "MANIE",
+            "grade": 2,
+            "classroom": 110,
+            "bus": 55
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "TAMESHA",
+            "grade": 6,
+            "classroom": 109,
+            "bus": 51
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "HYE",
+            "grade": 2,
+            "classroom": 104,
+            "bus": 56
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "INGER",
+            "grade": 6,
+            "classroom": 110,
+            "bus": 53
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "BILLY",
+            "grade": 1,
+            "classroom": 104,
+            "bus": 51
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "FLOY",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "CARTER",
+            "grade": 6,
+            "classroom": 112,
+            "bus": 55
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "WAN",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "JANNETTE",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 51
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "ZANDRA",
+            "grade": 2,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "TAMESHA",
+            "grade": 6,
+            "classroom": 105,
+            "bus": 55
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "FLOY",
+            "grade": 3,
+            "classroom": 105,
+            "bus": 55
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "DIMPLE",
+            "grade": 3,
+            "classroom": 106,
+            "bus": 56
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "HYE",
+            "grade": 6,
+            "classroom": 106,
+            "bus": 54
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "FLOY",
+            "grade": 4,
+            "classroom": 104,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "FLOY",
+            "grade": 2,
+            "classroom": 104,
+            "bus": 53
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "DICK",
+            "grade": 6,
+            "classroom": 106,
+            "bus": 51
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "FLOY",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "INGER",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 56
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "XUAN",
+            "grade": 4,
+            "classroom": 110,
+            "bus": 53
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "FLOY",
+            "grade": 3,
+            "classroom": 110,
+            "bus": 54
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "BILLY",
+            "grade": 5,
+            "classroom": 103,
+            "bus": 53
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "ZANDRA",
+            "grade": 2,
+            "classroom": 110,
+            "bus": 52
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "RANDOLPH",
+            "grade": 2,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "BILLY",
+            "grade": 5,
+            "classroom": 110,
+            "bus": 55
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "JANNETTE",
+            "grade": 1,
+            "classroom": 105,
+            "bus": 54
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "WAN",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "XUAN",
+            "grade": 1,
+            "classroom": 108,
+            "bus": 54
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "DICK",
+            "grade": 6,
+            "classroom": 104,
+            "bus": 54
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "MANIE",
+            "grade": 1,
+            "classroom": 111,
+            "bus": 53
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "WAN",
+            "grade": 6,
+            "classroom": 105,
+            "bus": 56
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "WAN",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 54
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "BILLY",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 56
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "JANNETTE",
+            "grade": 3,
+            "classroom": 105,
+            "bus": 54
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "CARTER",
+            "grade": 4,
+            "classroom": 105,
+            "bus": 53
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "BILLY",
+            "grade": 5,
+            "classroom": 105,
+            "bus": 51
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "ZANDRA",
+            "grade": 2,
+            "classroom": 101,
+            "bus": 54
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "TOMAS",
+            "grade": 3,
+            "classroom": 106,
+            "bus": 53
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "DIMPLE",
+            "grade": 1,
+            "classroom": 105,
+            "bus": 53
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "FLOY",
+            "grade": 4,
+            "classroom": 107,
+            "bus": 51
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "ZANDRA",
+            "grade": 3,
+            "classroom": 104,
+            "bus": 53
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "RANDOLPH",
+            "grade": 5,
+            "classroom": 108,
+            "bus": 56
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "TOMAS",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 56
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "DIMPLE",
+            "grade": 1,
+            "classroom": 103,
+            "bus": 54
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "INGER",
+            "grade": 5,
+            "classroom": 103,
+            "bus": 52
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "WAN",
+            "grade": 5,
+            "classroom": 106,
+            "bus": 53
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "MANIE",
+            "grade": 3,
+            "classroom": 108,
+            "bus": 52
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "DICK",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 56
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "JANNETTE",
+            "grade": 4,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "INGER",
+            "grade": 1,
+            "classroom": 101,
+            "bus": 56
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "TAMESHA",
+            "grade": 5,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "DICK",
+            "grade": 1,
+            "classroom": 108,
+            "bus": 51
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "JANNETTE",
+            "grade": 6,
+            "classroom": 108,
+            "bus": 52
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "HYE",
+            "grade": 3,
+            "classroom": 112,
+            "bus": 51
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "FLOY",
+            "grade": 4,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "JANNETTE",
+            "grade": 6,
+            "classroom": 109,
+            "bus": 52
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "ZANDRA",
+            "grade": 3,
+            "classroom": 104,
+            "bus": 51
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "ZANDRA",
+            "grade": 2,
+            "classroom": 104,
+            "bus": 54
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "WAN",
+            "grade": 4,
+            "classroom": 104,
+            "bus": 56
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "WAN",
+            "grade": 6,
+            "classroom": 105,
+            "bus": 52
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "DICK",
+            "grade": 2,
+            "classroom": 110,
+            "bus": 55
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "TOMAS",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "JANNETTE",
+            "grade": 5,
+            "classroom": 107,
+            "bus": 51
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "CARTER",
+            "grade": 6,
+            "classroom": 103,
+            "bus": 54
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "DIMPLE",
+            "grade": 6,
+            "classroom": 103,
+            "bus": 55
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "WAN",
+            "grade": 3,
+            "classroom": 111,
+            "bus": 52
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "TOMAS",
+            "grade": 1,
+            "classroom": 101,
+            "bus": 56
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "BILLY",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "INGER",
+            "grade": 4,
+            "classroom": 105,
+            "bus": 52
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "TOMAS",
+            "grade": 1,
+            "classroom": 104,
+            "bus": 55
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "DICK",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "JANNETTE",
+            "grade": 6,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "ZANDRA",
+            "grade": 6,
+            "classroom": 108,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "BILLY",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 56
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "JANNETTE",
+            "grade": 5,
+            "classroom": 101,
+            "bus": 55
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "BILLY",
+            "grade": 6,
+            "classroom": 104,
+            "bus": 54
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "TAMESHA",
+            "grade": 1,
+            "classroom": 112,
+            "bus": 53
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "WAN",
+            "grade": 5,
+            "classroom": 105,
+            "bus": 55
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "RANDOLPH",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "MANIE",
+            "grade": 2,
+            "classroom": 112,
+            "bus": 56
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "TAMESHA",
+            "grade": 1,
+            "classroom": 102,
+            "bus": 55
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "HYE",
+            "grade": 4,
+            "classroom": 102,
+            "bus": 51
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "JANNETTE",
+            "grade": 6,
+            "classroom": 108,
+            "bus": 56
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "ZANDRA",
+            "grade": 2,
+            "classroom": 102,
+            "bus": 54
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "HYE",
+            "grade": 4,
+            "classroom": 105,
+            "bus": 55
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "WAN",
+            "grade": 2,
+            "classroom": 102,
+            "bus": 56
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "MANIE",
+            "grade": 3,
+            "classroom": 104,
+            "bus": 55
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "CARTER",
+            "grade": 2,
+            "classroom": 105,
+            "bus": 54
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "TAMESHA",
+            "grade": 6,
+            "classroom": 108,
+            "bus": 51
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "TAMESHA",
+            "grade": 6,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "WAN",
+            "grade": 3,
+            "classroom": 103,
+            "bus": 52
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "CARTER",
+            "grade": 4,
+            "classroom": 110,
+            "bus": 51
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "INGER",
+            "grade": 2,
+            "classroom": 105,
+            "bus": 53
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "XUAN",
+            "grade": 1,
+            "classroom": 109,
+            "bus": 55
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "TOMAS",
+            "grade": 4,
+            "classroom": 110,
+            "bus": 52
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "ZANDRA",
+            "grade": 4,
+            "classroom": 102,
+            "bus": 53
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "DICK",
+            "grade": 2,
+            "classroom": 105,
+            "bus": 55
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "CARTER",
+            "grade": 3,
+            "classroom": 105,
+            "bus": 52
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "DIMPLE",
+            "grade": 1,
+            "classroom": 110,
+            "bus": 54
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "TAMESHA",
+            "grade": 3,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "HYE",
+            "grade": 2,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "INGER",
+            "grade": 4,
+            "classroom": 107,
+            "bus": 51
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "FLOY",
+            "grade": 1,
+            "classroom": 111,
+            "bus": 53
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "FLOY",
+            "grade": 5,
+            "classroom": 109,
+            "bus": 56
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "TAMESHA",
+            "grade": 5,
+            "classroom": 112,
+            "bus": 56
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "DIMPLE",
+            "grade": 6,
+            "classroom": 112,
+            "bus": 53
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "BILLY",
+            "grade": 4,
+            "classroom": 109,
+            "bus": 52
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "WAN",
+            "grade": 6,
+            "classroom": 108,
+            "bus": 52
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "TOMAS",
+            "grade": 6,
+            "classroom": 105,
+            "bus": 52
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "ZANDRA",
+            "grade": 3,
+            "classroom": 110,
+            "bus": 52
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "JANNETTE",
+            "grade": 4,
+            "classroom": 103,
+            "bus": 56
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "ZANDRA",
+            "grade": 5,
+            "classroom": 109,
+            "bus": 52
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "RANDOLPH",
+            "grade": 6,
+            "classroom": 104,
+            "bus": 51
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "RANDOLPH",
+            "grade": 6,
+            "classroom": 107,
+            "bus": 51
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "RANDOLPH",
+            "grade": 2,
+            "classroom": 103,
+            "bus": 51
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "CARTER",
+            "grade": 2,
+            "classroom": 110,
+            "bus": 54
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "ZANDRA",
+            "grade": 3,
+            "classroom": 105,
+            "bus": 52
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "FLOY",
+            "grade": 3,
+            "classroom": 105,
+            "bus": 53
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "MANIE",
+            "grade": 4,
+            "classroom": 101,
+            "bus": 56
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "WAN",
+            "grade": 4,
+            "classroom": 106,
+            "bus": 51
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "ZANDRA",
+            "grade": 1,
+            "classroom": 101,
+            "bus": 55
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "TOMAS",
+            "grade": 6,
+            "classroom": 104,
+            "bus": 52
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "ZANDRA",
+            "grade": 5,
+            "classroom": 106,
+            "bus": 54
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "JANNETTE",
+            "grade": 4,
+            "classroom": 111,
+            "bus": 52
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "HYE",
+            "grade": 1,
+            "classroom": 101,
+            "bus": 55
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "DICK",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 51
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "MANIE",
+            "grade": 6,
+            "classroom": 101,
+            "bus": 55
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "ZANDRA",
+            "grade": 5,
+            "classroom": 110,
+            "bus": 51
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "BILLY",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "INGER",
+            "grade": 2,
+            "classroom": 101,
+            "bus": 53
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "JANNETTE",
+            "grade": 3,
+            "classroom": 101,
+            "bus": 54
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "BILLY",
+            "grade": 3,
+            "classroom": 105,
+            "bus": 53
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "FLOY",
+            "grade": 4,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "JANNETTE",
+            "grade": 5,
+            "classroom": 107,
+            "bus": 56
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "CARTER",
+            "grade": 4,
+            "classroom": 109,
+            "bus": 53
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "RANDOLPH",
+            "grade": 5,
+            "classroom": 101,
+            "bus": 53
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "HYE",
+            "grade": 1,
+            "classroom": 106,
+            "bus": 55
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "CARTER",
+            "grade": 1,
+            "classroom": 110,
+            "bus": 52
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "DIMPLE",
+            "grade": 2,
+            "classroom": 112,
+            "bus": 56
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "DICK",
+            "grade": 1,
+            "classroom": 110,
+            "bus": 53
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "TOMAS",
+            "grade": 1,
+            "classroom": 104,
+            "bus": 51
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "BILLY",
+            "grade": 3,
+            "classroom": 110,
+            "bus": 52
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "HYE",
+            "grade": 5,
+            "classroom": 108,
+            "bus": 54
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "DICK",
+            "grade": 2,
+            "classroom": 106,
+            "bus": 55
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "DICK",
+            "grade": 6,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "TAMESHA",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "TAMESHA",
+            "grade": 5,
+            "classroom": 111,
+            "bus": 55
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "DIMPLE",
+            "grade": 1,
+            "classroom": 110,
+            "bus": 53
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "TAMESHA",
+            "grade": 1,
+            "classroom": 101,
+            "bus": 56
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "JANNETTE",
+            "grade": 2,
+            "classroom": 109,
+            "bus": 55
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "DICK",
+            "grade": 4,
+            "classroom": 106,
+            "bus": 54
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "WAN",
+            "grade": 4,
+            "classroom": 106,
+            "bus": 53
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "ZANDRA",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 54
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "TAMESHA",
+            "grade": 5,
+            "classroom": 101,
+            "bus": 51
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "HYE",
+            "grade": 4,
+            "classroom": 103,
+            "bus": 56
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "XUAN",
+            "grade": 2,
+            "classroom": 105,
+            "bus": 53
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "BILLY",
+            "grade": 4,
+            "classroom": 103,
+            "bus": 51
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "HYE",
+            "grade": 3,
+            "classroom": 110,
+            "bus": 51
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "XUAN",
+            "grade": 1,
+            "classroom": 112,
+            "bus": 52
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "DICK",
+            "grade": 4,
+            "classroom": 106,
+            "bus": 55
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "FLOY",
+            "grade": 4,
+            "classroom": 101,
+            "bus": 56
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "TOMAS",
+            "grade": 5,
+            "classroom": 110,
+            "bus": 52
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "WAN",
+            "grade": 5,
+            "classroom": 110,
+            "bus": 52
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "HYE",
+            "grade": 4,
+            "classroom": 109,
+            "bus": 53
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "TOMAS",
+            "grade": 1,
+            "classroom": 105,
+            "bus": 54
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "WAN",
+            "grade": 4,
+            "classroom": 106,
+            "bus": 52
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "TOMAS",
+            "grade": 2,
+            "classroom": 102,
+            "bus": 55
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "CARTER",
+            "grade": 3,
+            "classroom": 111,
+            "bus": 53
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "DIMPLE",
+            "grade": 6,
+            "classroom": 104,
+            "bus": 56
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "HYE",
+            "grade": 3,
+            "classroom": 103,
+            "bus": 53
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "WAN",
+            "grade": 5,
+            "classroom": 110,
+            "bus": 55
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "MANIE",
+            "grade": 5,
+            "classroom": 101,
+            "bus": 54
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "MANIE",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "CARTER",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 56
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "HYE",
+            "grade": 5,
+            "classroom": 105,
+            "bus": 56
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "JANNETTE",
+            "grade": 4,
+            "classroom": 105,
+            "bus": 54
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "ZANDRA",
+            "grade": 1,
+            "classroom": 101,
+            "bus": 51
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "RANDOLPH",
+            "grade": 6,
+            "classroom": 106,
+            "bus": 55
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "ZANDRA",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 56
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "DICK",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "ZANDRA",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 52
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "HYE",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 55
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "XUAN",
+            "grade": 5,
+            "classroom": 105,
+            "bus": 55
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "MANIE",
+            "grade": 5,
+            "classroom": 102,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "DICK",
+            "grade": 6,
+            "classroom": 106,
+            "bus": 52
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "XUAN",
+            "grade": 6,
+            "classroom": 110,
+            "bus": 56
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "XUAN",
+            "grade": 4,
+            "classroom": 105,
+            "bus": 56
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "MANIE",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 51
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "ZANDRA",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 51
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "BILLY",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 55
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "INGER",
+            "grade": 3,
+            "classroom": 101,
+            "bus": 51
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "FLOY",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "BILLY",
+            "grade": 6,
+            "classroom": 107,
+            "bus": 55
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "RANDOLPH",
+            "grade": 1,
+            "classroom": 108,
+            "bus": 54
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "TOMAS",
+            "grade": 1,
+            "classroom": 102,
+            "bus": 55
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "TOMAS",
+            "grade": 1,
+            "classroom": 104,
+            "bus": 52
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "XUAN",
+            "grade": 3,
+            "classroom": 105,
+            "bus": 56
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "JANNETTE",
+            "grade": 5,
+            "classroom": 105,
+            "bus": 51
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "INGER",
+            "grade": 6,
+            "classroom": 108,
+            "bus": 53
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "MANIE",
+            "grade": 3,
+            "classroom": 109,
+            "bus": 52
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "XUAN",
+            "grade": 5,
+            "classroom": 111,
+            "bus": 53
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "XUAN",
+            "grade": 3,
+            "classroom": 112,
+            "bus": 51
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "FLOY",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 56
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "JANNETTE",
+            "grade": 1,
+            "classroom": 110,
+            "bus": 52
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "CARTER",
+            "grade": 4,
+            "classroom": 111,
+            "bus": 51
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "HYE",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "DICK",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "TAMESHA",
+            "grade": 6,
+            "classroom": 105,
+            "bus": 54
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "DIMPLE",
+            "grade": 6,
+            "classroom": 110,
+            "bus": 55
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "INGER",
+            "grade": 5,
+            "classroom": 108,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "CARTER",
+            "grade": 4,
+            "classroom": 104,
+            "bus": 56
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "DICK",
+            "grade": 5,
+            "classroom": 108,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "JANNETTE",
+            "grade": 4,
+            "classroom": 109,
+            "bus": 53
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "DIMPLE",
+            "grade": 2,
+            "classroom": 104,
+            "bus": 54
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "WAN",
+            "grade": 3,
+            "classroom": 101,
+            "bus": 52
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "FLOY",
+            "grade": 2,
+            "classroom": 109,
+            "bus": 53
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "RANDOLPH",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 53
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "DIMPLE",
+            "grade": 3,
+            "classroom": 108,
+            "bus": 53
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "MANIE",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 54
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "INGER",
+            "grade": 3,
+            "classroom": 111,
+            "bus": 53
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "INGER",
+            "grade": 4,
+            "classroom": 107,
+            "bus": 56
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "MANIE",
+            "grade": 2,
+            "classroom": 103,
+            "bus": 55
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "ZANDRA",
+            "grade": 2,
+            "classroom": 106,
+            "bus": 51
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "ZANDRA",
+            "grade": 3,
+            "classroom": 103,
+            "bus": 54
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "MANIE",
+            "grade": 6,
+            "classroom": 107,
+            "bus": 55
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "TAMESHA",
+            "grade": 5,
+            "classroom": 101,
+            "bus": 51
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "ZANDRA",
+            "grade": 5,
+            "classroom": 104,
+            "bus": 55
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "BILLY",
+            "grade": 3,
+            "classroom": 105,
+            "bus": 54
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "TAMESHA",
+            "grade": 5,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "DIMPLE",
+            "grade": 1,
+            "classroom": 105,
+            "bus": 54
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "INGER",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 52
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "DIMPLE",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "INGER",
+            "grade": 4,
+            "classroom": 104,
+            "bus": 52
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "FLOY",
+            "grade": 1,
+            "classroom": 109,
+            "bus": 53
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "BILLY",
+            "grade": 1,
+            "classroom": 101,
+            "bus": 55
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "CARTER",
+            "grade": 4,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "INGER",
+            "grade": 4,
+            "classroom": 106,
+            "bus": 56
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "TOMAS",
+            "grade": 2,
+            "classroom": 102,
+            "bus": 54
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "MANIE",
+            "grade": 5,
+            "classroom": 109,
+            "bus": 51
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "DIMPLE",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 51
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "BILLY",
+            "grade": 3,
+            "classroom": 112,
+            "bus": 55
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "MANIE",
+            "grade": 4,
+            "classroom": 102,
+            "bus": 56
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "HYE",
+            "grade": 4,
+            "classroom": 111,
+            "bus": 55
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "DIMPLE",
+            "grade": 1,
+            "classroom": 112,
+            "bus": 54
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "INGER",
+            "grade": 2,
+            "classroom": 106,
+            "bus": 55
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "BILLY",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 56
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "BILLY",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 56
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "WAN",
+            "grade": 6,
+            "classroom": 112,
+            "bus": 51
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "MANIE",
+            "grade": 2,
+            "classroom": 103,
+            "bus": 53
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "RANDOLPH",
+            "grade": 3,
+            "classroom": 109,
+            "bus": 54
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "HYE",
+            "grade": 4,
+            "classroom": 109,
+            "bus": 55
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "DIMPLE",
+            "grade": 1,
+            "classroom": 105,
+            "bus": 52
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "FLOY",
+            "grade": 1,
+            "classroom": 101,
+            "bus": 52
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "RANDOLPH",
+            "grade": 3,
+            "classroom": 108,
+            "bus": 52
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "XUAN",
+            "grade": 6,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "TOMAS",
+            "grade": 2,
+            "classroom": 108,
+            "bus": 52
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "CARTER",
+            "grade": 1,
+            "classroom": 101,
+            "bus": 56
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "TOMAS",
+            "grade": 3,
+            "classroom": 109,
+            "bus": 54
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "BILLY",
+            "grade": 3,
+            "classroom": 111,
+            "bus": 51
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "FLOY",
+            "grade": 5,
+            "classroom": 109,
+            "bus": 51
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "RANDOLPH",
+            "grade": 6,
+            "classroom": 112,
+            "bus": 55
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "RANDOLPH",
+            "grade": 1,
+            "classroom": 112,
+            "bus": 51
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "INGER",
+            "grade": 3,
+            "classroom": 110,
+            "bus": 56
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "WAN",
+            "grade": 3,
+            "classroom": 110,
+            "bus": 55
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "BILLY",
+            "grade": 4,
+            "classroom": 108,
+            "bus": 55
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "HYE",
+            "grade": 6,
+            "classroom": 107,
+            "bus": 55
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "JANNETTE",
+            "grade": 5,
+            "classroom": 102,
+            "bus": 51
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "FLOY",
+            "grade": 5,
+            "classroom": 104,
+            "bus": 56
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "JANNETTE",
+            "grade": 4,
+            "classroom": 106,
+            "bus": 51
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "MANIE",
+            "grade": 6,
+            "classroom": 101,
+            "bus": 52
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "FLOY",
+            "grade": 3,
+            "classroom": 112,
+            "bus": 52
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "TAMESHA",
+            "grade": 2,
+            "classroom": 112,
+            "bus": 51
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "CARTER",
+            "grade": 2,
+            "classroom": 106,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "HYE",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 54
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "ZANDRA",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "RANDOLPH",
+            "grade": 2,
+            "classroom": 105,
+            "bus": 52
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "TAMESHA",
+            "grade": 5,
+            "classroom": 111,
+            "bus": 54
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "FLOY",
+            "grade": 5,
+            "classroom": 103,
+            "bus": 53
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "INGER",
+            "grade": 2,
+            "classroom": 105,
+            "bus": 55
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "DIMPLE",
+            "grade": 5,
+            "classroom": 110,
+            "bus": 54
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "BILLY",
+            "grade": 5,
+            "classroom": 108,
+            "bus": 51
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "RANDOLPH",
+            "grade": 1,
+            "classroom": 106,
+            "bus": 51
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "WAN",
+            "grade": 3,
+            "classroom": 109,
+            "bus": 53
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "FLOY",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "RANDOLPH",
+            "grade": 6,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "DIMPLE",
+            "grade": 5,
+            "classroom": 109,
+            "bus": 54
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "WAN",
+            "grade": 2,
+            "classroom": 109,
+            "bus": 53
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "DIMPLE",
+            "grade": 4,
+            "classroom": 106,
+            "bus": 51
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "DICK",
+            "grade": 6,
+            "classroom": 103,
+            "bus": 53
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "CARTER",
+            "grade": 2,
+            "classroom": 112,
+            "bus": 53
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "DICK",
+            "grade": 3,
+            "classroom": 111,
+            "bus": 51
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "JANNETTE",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 56
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "MANIE",
+            "grade": 5,
+            "classroom": 102,
+            "bus": 55
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "XUAN",
+            "grade": 3,
+            "classroom": 109,
+            "bus": 53
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "HYE",
+            "grade": 3,
+            "classroom": 103,
+            "bus": 53
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "BILLY",
+            "grade": 3,
+            "classroom": 108,
+            "bus": 56
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "FLOY",
+            "grade": 6,
+            "classroom": 102,
+            "bus": 52
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "MANIE",
+            "grade": 5,
+            "classroom": 105,
+            "bus": 55
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "RANDOLPH",
+            "grade": 4,
+            "classroom": 111,
+            "bus": 54
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "WAN",
+            "grade": 4,
+            "classroom": 109,
+            "bus": 54
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "HYE",
+            "grade": 4,
+            "classroom": 103,
+            "bus": 55
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "HYE",
+            "grade": 4,
+            "classroom": 106,
+            "bus": 56
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "DICK",
+            "grade": 6,
+            "classroom": 107,
+            "bus": 56
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "FLOY",
+            "grade": 6,
+            "classroom": 103,
+            "bus": 54
+        },
+        {
+            "last_name": "BREVO",
+            "first_name": "BILLY",
+            "grade": 3,
+            "classroom": 109,
+            "bus": 55
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "JANNETTE",
+            "grade": 5,
+            "classroom": 103,
+            "bus": 56
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "TOMAS",
+            "grade": 1,
+            "classroom": 104,
+            "bus": 56
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "ZANDRA",
+            "grade": 1,
+            "classroom": 105,
+            "bus": 56
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "BILLY",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "JANNETTE",
+            "grade": 6,
+            "classroom": 104,
+            "bus": 55
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "TOMAS",
+            "grade": 6,
+            "classroom": 103,
+            "bus": 53
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "TAMESHA",
+            "grade": 6,
+            "classroom": 101,
+            "bus": 52
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "XUAN",
+            "grade": 2,
+            "classroom": 104,
+            "bus": 55
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "WAN",
+            "grade": 6,
+            "classroom": 103,
+            "bus": 52
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "TAMESHA",
+            "grade": 6,
+            "classroom": 109,
+            "bus": 54
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "FLOY",
+            "grade": 1,
+            "classroom": 105,
+            "bus": 53
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "DICK",
+            "grade": 2,
+            "classroom": 111,
+            "bus": 54
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "HYE",
+            "grade": 6,
+            "classroom": 103,
+            "bus": 56
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "INGER",
+            "grade": 1,
+            "classroom": 103,
+            "bus": 52
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "WAN",
+            "grade": 6,
+            "classroom": 111,
+            "bus": 56
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "JANNETTE",
+            "grade": 5,
+            "classroom": 107,
+            "bus": 56
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "CARTER",
+            "grade": 4,
+            "classroom": 106,
+            "bus": 52
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "TOMAS",
+            "grade": 6,
+            "classroom": 101,
+            "bus": 53
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "WAN",
+            "grade": 6,
+            "classroom": 101,
+            "bus": 56
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "JANNETTE",
+            "grade": 1,
+            "classroom": 106,
+            "bus": 56
+        },
+        {
+            "last_name": "BERBES",
+            "first_name": "CARTER",
+            "grade": 4,
+            "classroom": 104,
+            "bus": 54
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "XUAN",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "BEAN",
+            "first_name": "TOMAS",
+            "grade": 1,
+            "classroom": 104,
+            "bus": 53
+        },
+        {
+            "last_name": "COMO",
+            "first_name": "WAN",
+            "grade": 5,
+            "classroom": 102,
+            "bus": 55
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "RANDOLPH",
+            "grade": 2,
+            "classroom": 102,
+            "bus": 52
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "CARTER",
+            "grade": 2,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "RANDOLPH",
+            "grade": 2,
+            "classroom": 105,
+            "bus": 56
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "INGER",
+            "grade": 6,
+            "classroom": 101,
+            "bus": 52
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "BILLY",
+            "grade": 5,
+            "classroom": 103,
+            "bus": 51
+        },
+        {
+            "last_name": "BOYTER",
+            "first_name": "RANDOLPH",
+            "grade": 1,
+            "classroom": 107,
+            "bus": 53
+        },
+        {
+            "last_name": "CORONADO",
+            "first_name": "MANIE",
+            "grade": 3,
+            "classroom": 101,
+            "bus": 54
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "INGER",
+            "grade": 1,
+            "classroom": 102,
+            "bus": 56
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "WAN",
+            "grade": 4,
+            "classroom": 107,
+            "bus": 54
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "INGER",
+            "grade": 4,
+            "classroom": 112,
+            "bus": 55
+        },
+        {
+            "last_name": "COVINGTON",
+            "first_name": "ZANDRA",
+            "grade": 1,
+            "classroom": 101,
+            "bus": 53
+        },
+        {
+            "last_name": "CIGANEK",
+            "first_name": "WAN",
+            "grade": 6,
+            "classroom": 104,
+            "bus": 51
+        },
+        {
+            "last_name": "BEX",
+            "first_name": "MANIE",
+            "grade": 6,
+            "classroom": 108,
+            "bus": 53
+        },
+        {
+            "last_name": "BUSSMANN",
+            "first_name": "INGER",
+            "grade": 4,
+            "classroom": 101,
+            "bus": 52
+        },
+        {
+            "last_name": "CLECKLER",
+            "first_name": "FLOY",
+            "grade": 5,
+            "classroom": 102,
+            "bus": 55
+        },
+        {
+            "last_name": "BRODERSEN",
+            "first_name": "DICK",
+            "grade": 6,
+            "classroom": 110,
+            "bus": 53
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "DIMPLE",
+            "grade": 5,
+            "classroom": 107,
+            "bus": 52
+        },
+        {
+            "last_name": "CREMEANS",
+            "first_name": "CARTER",
+            "grade": 2,
+            "classroom": 102,
+            "bus": 56
+        },
+        {
+            "last_name": "CORKER",
+            "first_name": "TAMESHA",
+            "grade": 5,
+            "classroom": 107,
+            "bus": 53
+        }
+    ],
+    "teachers": [
+        {
+            "last_name": "FAFARD",
+            "first_name": "ROCIO",
+            "classroom": 107
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JAE",
+            "classroom": 109
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "BENITO",
+            "classroom": 102
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "GALE",
+            "classroom": 104
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "NANCY",
+            "classroom": 111
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JONATHAN",
+            "classroom": 110
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JED",
+            "classroom": 105
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "GAVIN",
+            "classroom": 108
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "LUZ",
+            "classroom": 106
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "PERLA",
+            "classroom": 112
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "ADOLPH",
+            "classroom": 103
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "REUBEN",
+            "classroom": 101
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JONATHAN",
+            "classroom": 106
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "ROCIO",
+            "classroom": 106
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "ADOLPH",
+            "classroom": 108
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JAE",
+            "classroom": 101
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JONATHAN",
+            "classroom": 104
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "GAVIN",
+            "classroom": 103
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JONATHAN",
+            "classroom": 109
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "PERLA",
+            "classroom": 112
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "ADOLPH",
+            "classroom": 112
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "PERLA",
+            "classroom": 105
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "LUZ",
+            "classroom": 106
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "REUBEN",
+            "classroom": 110
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "LUZ",
+            "classroom": 107
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "PERLA",
+            "classroom": 101
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ADOLPH",
+            "classroom": 106
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JAE",
+            "classroom": 101
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JONATHAN",
+            "classroom": 112
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "JED",
+            "classroom": 101
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "PERLA",
+            "classroom": 112
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "ADOLPH",
+            "classroom": 106
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "BENITO",
+            "classroom": 101
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ADOLPH",
+            "classroom": 112
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "GAVIN",
+            "classroom": 107
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "ROCIO",
+            "classroom": 112
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "GAVIN",
+            "classroom": 109
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "ADOLPH",
+            "classroom": 107
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "PERLA",
+            "classroom": 111
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "NANCY",
+            "classroom": 106
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "LUZ",
+            "classroom": 110
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "BENITO",
+            "classroom": 112
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "JED",
+            "classroom": 105
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JED",
+            "classroom": 109
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "GAVIN",
+            "classroom": 111
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "ADOLPH",
+            "classroom": 107
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "PERLA",
+            "classroom": 110
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JED",
+            "classroom": 109
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JAE",
+            "classroom": 104
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JAE",
+            "classroom": 110
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JED",
+            "classroom": 104
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "BENITO",
+            "classroom": 105
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "NANCY",
+            "classroom": 112
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "NANCY",
+            "classroom": 107
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JONATHAN",
+            "classroom": 107
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "NANCY",
+            "classroom": 112
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "ROCIO",
+            "classroom": 105
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JED",
+            "classroom": 105
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "GAVIN",
+            "classroom": 106
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "GAVIN",
+            "classroom": 106
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "ROCIO",
+            "classroom": 104
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JED",
+            "classroom": 104
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JAE",
+            "classroom": 106
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JED",
+            "classroom": 102
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "NANCY",
+            "classroom": 106
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "JONATHAN",
+            "classroom": 110
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JAE",
+            "classroom": 110
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "ROCIO",
+            "classroom": 103
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "GAVIN",
+            "classroom": 110
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JONATHAN",
+            "classroom": 112
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "BENITO",
+            "classroom": 110
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JONATHAN",
+            "classroom": 105
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "ROCIO",
+            "classroom": 106
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "ADOLPH",
+            "classroom": 108
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "REUBEN",
+            "classroom": 104
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JED",
+            "classroom": 111
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "GAVIN",
+            "classroom": 105
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "PERLA",
+            "classroom": 102
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "GAVIN",
+            "classroom": 109
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "BENITO",
+            "classroom": 111
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "ADOLPH",
+            "classroom": 105
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "PERLA",
+            "classroom": 111
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "ADOLPH",
+            "classroom": 105
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JED",
+            "classroom": 105
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "ROCIO",
+            "classroom": 101
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JED",
+            "classroom": 106
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "ADOLPH",
+            "classroom": 101
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "GAVIN",
+            "classroom": 104
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "NANCY",
+            "classroom": 108
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "LUZ",
+            "classroom": 112
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JED",
+            "classroom": 103
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "REUBEN",
+            "classroom": 103
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ADOLPH",
+            "classroom": 105
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "ROCIO",
+            "classroom": 102
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JED",
+            "classroom": 107
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JONATHAN",
+            "classroom": 101
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "ROCIO",
+            "classroom": 102
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "GAVIN",
+            "classroom": 108
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "BENITO",
+            "classroom": 108
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "REUBEN",
+            "classroom": 110
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JED",
+            "classroom": 112
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "NANCY",
+            "classroom": 107
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "LUZ",
+            "classroom": 104
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "ROCIO",
+            "classroom": 104
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "JAE",
+            "classroom": 105
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "ADOLPH",
+            "classroom": 110
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "ROCIO",
+            "classroom": 112
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "PERLA",
+            "classroom": 107
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JED",
+            "classroom": 103
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "PERLA",
+            "classroom": 103
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JAE",
+            "classroom": 111
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JONATHAN",
+            "classroom": 101
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "GAVIN",
+            "classroom": 104
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "NANCY",
+            "classroom": 105
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "LUZ",
+            "classroom": 104
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "LUZ",
+            "classroom": 107
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "BENITO",
+            "classroom": 109
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "LUZ",
+            "classroom": 111
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "BENITO",
+            "classroom": 108
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "NANCY",
+            "classroom": 107
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JED",
+            "classroom": 101
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "REUBEN",
+            "classroom": 104
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "PERLA",
+            "classroom": 112
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "BENITO",
+            "classroom": 105
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "GAVIN",
+            "classroom": 107
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "REUBEN",
+            "classroom": 112
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "NANCY",
+            "classroom": 106
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "REUBEN",
+            "classroom": 102
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JAE",
+            "classroom": 102
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "LUZ",
+            "classroom": 107
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JONATHAN",
+            "classroom": 108
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "NANCY",
+            "classroom": 102
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "PERLA",
+            "classroom": 105
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JAE",
+            "classroom": 104
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "ROCIO",
+            "classroom": 105
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "ROCIO",
+            "classroom": 108
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "REUBEN",
+            "classroom": 104
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "GAVIN",
+            "classroom": 103
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "PERLA",
+            "classroom": 110
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JAE",
+            "classroom": 105
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JED",
+            "classroom": 109
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JED",
+            "classroom": 110
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "ADOLPH",
+            "classroom": 102
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JAE",
+            "classroom": 105
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JED",
+            "classroom": 110
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JAE",
+            "classroom": 107
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "BENITO",
+            "classroom": 112
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "PERLA",
+            "classroom": 111
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "GAVIN",
+            "classroom": 109
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JONATHAN",
+            "classroom": 112
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "ADOLPH",
+            "classroom": 109
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "PERLA",
+            "classroom": 108
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "ADOLPH",
+            "classroom": 105
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "REUBEN",
+            "classroom": 110
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "LUZ",
+            "classroom": 103
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "ROCIO",
+            "classroom": 109
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JONATHAN",
+            "classroom": 104
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "REUBEN",
+            "classroom": 104
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JONATHAN",
+            "classroom": 103
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "GAVIN",
+            "classroom": 105
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JED",
+            "classroom": 110
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "REUBEN",
+            "classroom": 105
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JAE",
+            "classroom": 105
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JED",
+            "classroom": 101
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "BENITO",
+            "classroom": 106
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "PERLA",
+            "classroom": 101
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JED",
+            "classroom": 104
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "REUBEN",
+            "classroom": 106
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ADOLPH",
+            "classroom": 111
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JONATHAN",
+            "classroom": 101
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JONATHAN",
+            "classroom": 111
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "LUZ",
+            "classroom": 101
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "BENITO",
+            "classroom": 110
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "PERLA",
+            "classroom": 109
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "ADOLPH",
+            "classroom": 101
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "LUZ",
+            "classroom": 101
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ROCIO",
+            "classroom": 105
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "NANCY",
+            "classroom": 112
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JONATHAN",
+            "classroom": 109
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "GAVIN",
+            "classroom": 101
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "ADOLPH",
+            "classroom": 110
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "GAVIN",
+            "classroom": 112
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "PERLA",
+            "classroom": 104
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JAE",
+            "classroom": 110
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JAE",
+            "classroom": 108
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "ROCIO",
+            "classroom": 106
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JONATHAN",
+            "classroom": 112
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JAE",
+            "classroom": 111
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "BENITO",
+            "classroom": 110
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "NANCY",
+            "classroom": 101
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "REUBEN",
+            "classroom": 103
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "LUZ",
+            "classroom": 104
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "BENITO",
+            "classroom": 109
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "BENITO",
+            "classroom": 106
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "ROCIO",
+            "classroom": 106
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "GAVIN",
+            "classroom": 108
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "PERLA",
+            "classroom": 101
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "REUBEN",
+            "classroom": 103
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "LUZ",
+            "classroom": 105
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "LUZ",
+            "classroom": 103
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "ADOLPH",
+            "classroom": 112
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JONATHAN",
+            "classroom": 106
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "PERLA",
+            "classroom": 101
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 110
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ROCIO",
+            "classroom": 110
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JED",
+            "classroom": 109
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "BENITO",
+            "classroom": 105
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JONATHAN",
+            "classroom": 106
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "GAVIN",
+            "classroom": 102
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "NANCY",
+            "classroom": 111
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JONATHAN",
+            "classroom": 104
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "GAVIN",
+            "classroom": 103
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JAE",
+            "classroom": 110
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "ROCIO",
+            "classroom": 101
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "GAVIN",
+            "classroom": 102
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 112
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "NANCY",
+            "classroom": 105
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "LUZ",
+            "classroom": 101
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "BENITO",
+            "classroom": 106
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JED",
+            "classroom": 111
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "GAVIN",
+            "classroom": 102
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JONATHAN",
+            "classroom": 107
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "NANCY",
+            "classroom": 102
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "GAVIN",
+            "classroom": 107
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "GAVIN",
+            "classroom": 102
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "PERLA",
+            "classroom": 106
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JED",
+            "classroom": 105
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "PERLA",
+            "classroom": 107
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "ADOLPH",
+            "classroom": 108
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "GAVIN",
+            "classroom": 101
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "PERLA",
+            "classroom": 103
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JED",
+            "classroom": 108
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JONATHAN",
+            "classroom": 102
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JED",
+            "classroom": 104
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JAE",
+            "classroom": 105
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "BENITO",
+            "classroom": 108
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "ADOLPH",
+            "classroom": 109
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JONATHAN",
+            "classroom": 111
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "ROCIO",
+            "classroom": 110
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "JAE",
+            "classroom": 111
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "REUBEN",
+            "classroom": 107
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "ADOLPH",
+            "classroom": 102
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "NANCY",
+            "classroom": 105
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "REUBEN",
+            "classroom": 110
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "NANCY",
+            "classroom": 108
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "ROCIO",
+            "classroom": 104
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "BENITO",
+            "classroom": 108
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "PERLA",
+            "classroom": 109
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "NANCY",
+            "classroom": 104
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "BENITO",
+            "classroom": 101
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "PERLA",
+            "classroom": 109
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JAE",
+            "classroom": 108
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JONATHAN",
+            "classroom": 108
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "REUBEN",
+            "classroom": 108
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 111
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "LUZ",
+            "classroom": 102
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "LUZ",
+            "classroom": 103
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JED",
+            "classroom": 106
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "ADOLPH",
+            "classroom": 101
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "JONATHAN",
+            "classroom": 104
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "ADOLPH",
+            "classroom": 104
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JAE",
+            "classroom": 112
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JAE",
+            "classroom": 105
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "ADOLPH",
+            "classroom": 111
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "BENITO",
+            "classroom": 107
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "PERLA",
+            "classroom": 104
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 109
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "GAVIN",
+            "classroom": 101
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "ROCIO",
+            "classroom": 107
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JAE",
+            "classroom": 106
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "PERLA",
+            "classroom": 102
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JONATHAN",
+            "classroom": 109
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "NANCY",
+            "classroom": 102
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "NANCY",
+            "classroom": 102
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "JAE",
+            "classroom": 111
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "GAVIN",
+            "classroom": 112
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "ROCIO",
+            "classroom": 106
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "ROCIO",
+            "classroom": 102
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JAE",
+            "classroom": 112
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "ADOLPH",
+            "classroom": 103
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "REUBEN",
+            "classroom": 109
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "GAVIN",
+            "classroom": 111
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "JAE",
+            "classroom": 109
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "JED",
+            "classroom": 105
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JAE",
+            "classroom": 101
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JONATHAN",
+            "classroom": 108
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "LUZ",
+            "classroom": 108
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JAE",
+            "classroom": 101
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "NANCY",
+            "classroom": 109
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JED",
+            "classroom": 109
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "LUZ",
+            "classroom": 112
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JONATHAN",
+            "classroom": 111
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JED",
+            "classroom": 112
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "NANCY",
+            "classroom": 110
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "LUZ",
+            "classroom": 110
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "BENITO",
+            "classroom": 108
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "NANCY",
+            "classroom": 111
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "NANCY",
+            "classroom": 104
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "GAVIN",
+            "classroom": 106
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "ROCIO",
+            "classroom": 101
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "NANCY",
+            "classroom": 112
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "BENITO",
+            "classroom": 112
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "ADOLPH",
+            "classroom": 106
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "LUZ",
+            "classroom": 102
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "LUZ",
+            "classroom": 109
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "GAVIN",
+            "classroom": 105
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "PERLA",
+            "classroom": 111
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "GAVIN",
+            "classroom": 103
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "PERLA",
+            "classroom": 105
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "LUZ",
+            "classroom": 110
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JAE",
+            "classroom": 108
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "PERLA",
+            "classroom": 106
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ADOLPH",
+            "classroom": 109
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "NANCY",
+            "classroom": 107
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "ROCIO",
+            "classroom": 109
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "GAVIN",
+            "classroom": 109
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "BENITO",
+            "classroom": 109
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "ADOLPH",
+            "classroom": 106
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JAE",
+            "classroom": 103
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JAE",
+            "classroom": 111
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "PERLA",
+            "classroom": 102
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "NANCY",
+            "classroom": 102
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "GAVIN",
+            "classroom": 109
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ADOLPH",
+            "classroom": 103
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JAE",
+            "classroom": 102
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JED",
+            "classroom": 105
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "REUBEN",
+            "classroom": 111
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JAE",
+            "classroom": 103
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 102
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "BENITO",
+            "classroom": 103
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "PERLA",
+            "classroom": 109
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JED",
+            "classroom": 103
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JONATHAN",
+            "classroom": 104
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "ROCIO",
+            "classroom": 105
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "REUBEN",
+            "classroom": 103
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "REUBEN",
+            "classroom": 104
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "ROCIO",
+            "classroom": 103
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "NANCY",
+            "classroom": 103
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "REUBEN",
+            "classroom": 105
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JED",
+            "classroom": 111
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "NANCY",
+            "classroom": 103
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "LUZ",
+            "classroom": 103
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "BENITO",
+            "classroom": 111
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JONATHAN",
+            "classroom": 109
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JAE",
+            "classroom": 106
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "BENITO",
+            "classroom": 101
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "PERLA",
+            "classroom": 101
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "ADOLPH",
+            "classroom": 106
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "GAVIN",
+            "classroom": 104
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JED",
+            "classroom": 107
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JED",
+            "classroom": 102
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "NANCY",
+            "classroom": 102
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "GAVIN",
+            "classroom": 101
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "JONATHAN",
+            "classroom": 103
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "BENITO",
+            "classroom": 107
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "ROCIO",
+            "classroom": 102
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "NANCY",
+            "classroom": 112
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "PERLA",
+            "classroom": 104
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "ADOLPH",
+            "classroom": 108
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "GAVIN",
+            "classroom": 102
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "PERLA",
+            "classroom": 110
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "LUZ",
+            "classroom": 103
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "REUBEN",
+            "classroom": 107
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "PERLA",
+            "classroom": 110
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JED",
+            "classroom": 110
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "REUBEN",
+            "classroom": 101
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "BENITO",
+            "classroom": 112
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "GAVIN",
+            "classroom": 105
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "REUBEN",
+            "classroom": 107
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "LUZ",
+            "classroom": 102
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JONATHAN",
+            "classroom": 107
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "NANCY",
+            "classroom": 108
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "PERLA",
+            "classroom": 102
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JAE",
+            "classroom": 105
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JAE",
+            "classroom": 102
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "ROCIO",
+            "classroom": 104
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "ROCIO",
+            "classroom": 105
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "REUBEN",
+            "classroom": 108
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "GAVIN",
+            "classroom": 104
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "PERLA",
+            "classroom": 103
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JAE",
+            "classroom": 110
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "ADOLPH",
+            "classroom": 110
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JAE",
+            "classroom": 110
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "BENITO",
+            "classroom": 107
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "PERLA",
+            "classroom": 112
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "ADOLPH",
+            "classroom": 112
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "ADOLPH",
+            "classroom": 108
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "REUBEN",
+            "classroom": 105
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "LUZ",
+            "classroom": 110
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JONATHAN",
+            "classroom": 109
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JONATHAN",
+            "classroom": 104
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JED",
+            "classroom": 105
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "REUBEN",
+            "classroom": 110
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "BENITO",
+            "classroom": 105
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JED",
+            "classroom": 106
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "REUBEN",
+            "classroom": 101
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ADOLPH",
+            "classroom": 104
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JONATHAN",
+            "classroom": 106
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "BENITO",
+            "classroom": 111
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "PERLA",
+            "classroom": 101
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "ADOLPH",
+            "classroom": 110
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "LUZ",
+            "classroom": 109
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ROCIO",
+            "classroom": 101
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "NANCY",
+            "classroom": 105
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JONATHAN",
+            "classroom": 101
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "GAVIN",
+            "classroom": 112
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "ADOLPH",
+            "classroom": 101
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "GAVIN",
+            "classroom": 106
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JAE",
+            "classroom": 104
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "ROCIO",
+            "classroom": 110
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JONATHAN",
+            "classroom": 108
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "PERLA",
+            "classroom": 106
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JAE",
+            "classroom": 112
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "NANCY",
+            "classroom": 111
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "REUBEN",
+            "classroom": 110
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "LUZ",
+            "classroom": 101
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "BENITO",
+            "classroom": 103
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "BENITO",
+            "classroom": 104
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "ROCIO",
+            "classroom": 109
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "ADOLPH",
+            "classroom": 103
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JONATHAN",
+            "classroom": 110
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 106
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "GAVIN",
+            "classroom": 105
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "NANCY",
+            "classroom": 106
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JONATHAN",
+            "classroom": 102
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "GAVIN",
+            "classroom": 111
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JAE",
+            "classroom": 104
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "ROCIO",
+            "classroom": 103
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "GAVIN",
+            "classroom": 110
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 101
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "REUBEN",
+            "classroom": 102
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "NANCY",
+            "classroom": 112
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "LUZ",
+            "classroom": 105
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "BENITO",
+            "classroom": 105
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JED",
+            "classroom": 101
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "GAVIN",
+            "classroom": 106
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "JONATHAN",
+            "classroom": 111
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "GAVIN",
+            "classroom": 107
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "PERLA",
+            "classroom": 105
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "REUBEN",
+            "classroom": 102
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JED",
+            "classroom": 106
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "PERLA",
+            "classroom": 110
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "ADOLPH",
+            "classroom": 101
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "GAVIN",
+            "classroom": 107
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "NANCY",
+            "classroom": 108
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JED",
+            "classroom": 102
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JONATHAN",
+            "classroom": 103
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JAE",
+            "classroom": 102
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "BENITO",
+            "classroom": 105
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "ADOLPH",
+            "classroom": 105
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "JONATHAN",
+            "classroom": 108
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "ROCIO",
+            "classroom": 109
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JED",
+            "classroom": 111
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "JAE",
+            "classroom": 104
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "ADOLPH",
+            "classroom": 111
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "REUBEN",
+            "classroom": 102
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "NANCY",
+            "classroom": 105
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "PERLA",
+            "classroom": 104
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "PERLA",
+            "classroom": 104
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 108
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "LUZ",
+            "classroom": 111
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "JED",
+            "classroom": 102
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JAE",
+            "classroom": 106
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "JONATHAN",
+            "classroom": 108
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "BENITO",
+            "classroom": 101
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "BENITO",
+            "classroom": 105
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "PERLA",
+            "classroom": 111
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 107
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "GAVIN",
+            "classroom": 104
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "PERLA",
+            "classroom": 107
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JONATHAN",
+            "classroom": 109
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "JAE",
+            "classroom": 112
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "ROCIO",
+            "classroom": 111
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "LUZ",
+            "classroom": 112
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JAE",
+            "classroom": 103
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "ADOLPH",
+            "classroom": 102
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "REUBEN",
+            "classroom": 112
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "GAVIN",
+            "classroom": 103
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "JED",
+            "classroom": 111
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JAE",
+            "classroom": 109
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JONATHAN",
+            "classroom": 105
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JAE",
+            "classroom": 107
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "ADOLPH",
+            "classroom": 101
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "LUZ",
+            "classroom": 111
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JONATHAN",
+            "classroom": 109
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "LUZ",
+            "classroom": 112
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "BENITO",
+            "classroom": 110
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "NANCY",
+            "classroom": 110
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "NANCY",
+            "classroom": 111
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "LUZ",
+            "classroom": 106
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "GAVIN",
+            "classroom": 105
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "LUZ",
+            "classroom": 103
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "PERLA",
+            "classroom": 110
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ADOLPH",
+            "classroom": 108
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "BENITO",
+            "classroom": 106
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "NANCY",
+            "classroom": 109
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "ROCIO",
+            "classroom": 107
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "ADOLPH",
+            "classroom": 109
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JAE",
+            "classroom": 109
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JONATHAN",
+            "classroom": 106
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "JAE",
+            "classroom": 103
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "PERLA",
+            "classroom": 112
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "NANCY",
+            "classroom": 111
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "GAVIN",
+            "classroom": 102
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ADOLPH",
+            "classroom": 102
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JAE",
+            "classroom": 103
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 105
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JAE",
+            "classroom": 111
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "NANCY",
+            "classroom": 109
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "PERLA",
+            "classroom": 103
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "BENITO",
+            "classroom": 106
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "PERLA",
+            "classroom": 102
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JONATHAN",
+            "classroom": 109
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "ROCIO",
+            "classroom": 103
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "REUBEN",
+            "classroom": 104
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "REUBEN",
+            "classroom": 105
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JONATHAN",
+            "classroom": 104
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "NANCY",
+            "classroom": 101
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "JED",
+            "classroom": 104
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "REUBEN",
+            "classroom": 103
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "LUZ",
+            "classroom": 111
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "BENITO",
+            "classroom": 103
+        },
+        {
+            "last_name": "BODZIONY",
+            "first_name": "JONATHAN",
+            "classroom": 103
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "BENITO",
+            "classroom": 109
+        },
+        {
+            "last_name": "STEIB",
+            "first_name": "JED",
+            "classroom": 106
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JED",
+            "classroom": 107
+        },
+        {
+            "last_name": "HANTZ",
+            "first_name": "NANCY",
+            "classroom": 104
+        },
+        {
+            "last_name": "COOL",
+            "first_name": "JONATHAN",
+            "classroom": 102
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "JED",
+            "classroom": 102
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "GAVIN",
+            "classroom": 107
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "JONATHAN",
+            "classroom": 105
+        },
+        {
+            "last_name": "ALPERT",
+            "first_name": "BENITO",
+            "classroom": 101
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "JAE",
+            "classroom": 103
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "ROCIO",
+            "classroom": 107
+        },
+        {
+            "last_name": "NISTENDIRK",
+            "first_name": "ADOLPH",
+            "classroom": 101
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "NANCY",
+            "classroom": 102
+        },
+        {
+            "last_name": "CHIONCHIO",
+            "first_name": "ADOLPH",
+            "classroom": 101
+        },
+        {
+            "last_name": "GAMBREL",
+            "first_name": "LUZ",
+            "classroom": 102
+        },
+        {
+            "last_name": "KERBS",
+            "first_name": "BENITO",
+            "classroom": 110
+        },
+        {
+            "last_name": "FAFARD",
+            "first_name": "REUBEN",
+            "classroom": 103
+        },
+        {
+            "last_name": "HAMER",
+            "first_name": "PERLA",
+            "classroom": 102
+        },
+        {
+            "last_name": "FALKER",
+            "first_name": "BENITO",
+            "classroom": 107
+        }
+    ]
+}
