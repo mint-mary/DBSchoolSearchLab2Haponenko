@@ -46,7 +46,7 @@ class Teacher:
     def __repr__(self):
         return f"Teacher: {self.first_name} {self.last_name}, Classroom: {self.classroom}"
 
-# --- Завантаження даних ---
+#Завантаження даних
 
 def load_students(filename="students.txt"):
     students = []
@@ -80,7 +80,7 @@ def load_normalized_data():
         sys.exit(1)
     return students_norm, teachers, teachers_map
 
-# --- Декоратори ---
+# Декоратори
 
 def timed_search(func):
     def wrapper(*args, **kwargs):
@@ -103,7 +103,7 @@ def timed_action(func):
         return result
     return wrapper
 
-# --- ПОШУК (старий і новий функціонал) ---
+# ПОШУК (старий і новий функціонал)
 
 @timed_search
 def search_student(students, teachers_map, last_name):
@@ -157,7 +157,7 @@ def search_grade_teachers(students, teachers_map, grade):
                 result.add(f"{t.last_name}, {t.first_name}")
     return sorted(list(result))
 
-# --- Модифікація даних ---
+# Модифікація даних
 
 @timed_action
 def delete_student(students, last_name):
@@ -263,7 +263,7 @@ def save_xml(students, teachers, filename="students.xml"):
     tree.write(filename, encoding="utf-8", xml_declaration=True)
     print(f"Changes saved to {filename}")
 
-# --- Головна програма ---
+# Головна програма 
 
 def main():
     if os.path.exists("list.txt") and os.path.exists("teachers.txt"):
